@@ -3,7 +3,7 @@ I have created a  data analysis project for Ola ride bookings using SQL for data
 ## Dataset
  Due to GitHub file size limitations, only the first 1000 rows of the dataset have been uploaded here. However, the full project and analysis were performed on the complete dataset containing more than 8000 rows.
 ## SQl Questions
- --Retrieve all successful bookings
+ - Retrieve all successful bookings<br>
  Find the average ride distance for each vehicle type
  Get the total number of cancelled rides by customers
  List the top 5 customers who booked the highest number of rides
