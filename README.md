@@ -11,7 +11,10 @@ I have created a  data analysis project for Ola ride bookings using SQL for data
  - Find the maximum and minimum driver ratings for Prime Sedan bookings<br>
  - Retrieve all rides where payment was made using UPI<br>
  - Find the average customer rating per vehicle type<br>
- - Calculate the total booking value of rides completed successfully
+ - Calculate the total booking value of rides completed successfully<br>
+
+ ## 📁 SQL Queries
+ All queries are saved in the [
 ## Power-bi Questions
 - Ride Volume Over Time<br>
 - Booking Status Breakdown<br>
