@@ -24,4 +24,8 @@ I have created a  data analysis project for Ola ride bookings using SQL for data
 - Driver Ratings Distribution<br>
 - Customer vs. Driver Ratings
 ## Dashboard
-- I have uploaded all the dashboard 
+- The dashboard images (screenshots) are available in the main directory of this repository, along with the dataset files.  
+You can refer to those images to get a visual understanding of the project output.
+![First(Overall)](https://github.com/user-attachments/assets/f681a7b7-a9ea-4908-b2cf-e6f6b659fd09)
+
+
