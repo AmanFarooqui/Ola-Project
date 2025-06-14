@@ -23,3 +23,5 @@ I have created a  data analysis project for Ola ride bookings using SQL for data
 - Ride Distance Distribution Per Day<br>
 - Driver Ratings Distribution<br>
 - Customer vs. Driver Ratings
+## Dashboard
+- I have uploaded all the dashboard 
