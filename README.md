@@ -14,7 +14,8 @@ I have created a  data analysis project for Ola ride bookings using SQL for data
  - Calculate the total booking value of rides completed successfully<br>
 
  ## 📁 SQL Queries
- All queries are saved in the [
+ - All queries are saved in the [SQL Queries] (./sql) folder
+ - Each query addresses a specific business question related to ride data.
 ## Power-bi Questions
 - Ride Volume Over Time<br>
 - Booking Status Breakdown<br>
